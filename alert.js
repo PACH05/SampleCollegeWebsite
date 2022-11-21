@@ -1,7 +1,7 @@
-document.getElementById("tnp").addEventListener("click", ()=>{
+document.getElementById("tnp0").addEventListener("click", ()=>{
     alert("This page is under development")
 });
 
-document.getElementById("dwn").addEventListener("click", ()=>{
+document.getElementById("dwn0").addEventListener("click", ()=>{
     alert("This page is under development")
 });
